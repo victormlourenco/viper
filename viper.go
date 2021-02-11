@@ -36,8 +36,8 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/hashicorp/hcl"
-	"github.com/hashicorp/hcl/hcl/printer"
+	"github.com/aaltommi/hcl"
+	"github.com/aaltommi/hcl/hcl/printer"
 	"github.com/magiconair/properties"
 	"github.com/mitchellh/mapstructure"
 	"github.com/pelletier/go-toml"
